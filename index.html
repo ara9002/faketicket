@@ -1,0 +1,152 @@
+<!DOCTYPE html>
+<html lang="ru">
+  <head>
+    <meta charset="UTF-8"/>
+    <meta name="keywords" content="авиабилет, авиаперелет, путешествие, авиакомпания"/>
+    <meta name="author" content="Алим Расулов"/>
+    <meta name="description" content="Покупка авиабилетов онлайн. Удобный поиск и бронирование авиаперелетов по всему миру."/>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/flatpickr/dist/themes/airbnb.css"/> 
+    <link rel="stylesheet" href="css/style.css"/>
+    <link rel="stylesheet" href="css/from_search.css"/>
+    <title>Авиабилет</title>
+  </head>
+
+<body>
+  <!-- header nav -->
+  <header сlass="header">
+      <div class="container">
+        <a href="#" class="log"><img src="/img/logo.png" alt="Логотип" class="logo"></a>
+          <nav class="header-nav">
+              <ul class="nav-list" >
+                <li class="nav-item"><a class="active" href="/index.html">Главная</a></li>
+                <li class="nav-item"><a href="/about.html">О нас</a></li>
+                <li class="nav-item"><a href="/services.html">Услуги</a></li>
+                <li class="nav-item"><a href="/contact.html">Контакты</a></li>
+              </ul>
+            </nav> 
+      </div>
+  </header>
+  <!-- header nav end-->
+
+<main class="main">
+  <div class="container">
+    <h1 class="id-main">Платформа для оформления маршрутных квитанций авиабилета</h1>
+      <h2 class="head">Решение для тех, кто нуждается в авиабилете для прохождения границы. Большинство авиакомпаний требуют наличие обратного билета перед тем, как разрешить посадку на рейс в страну назначения.</h2>
+          <p class="head-2">Маршрутная квитанция подтверждение авиабилета мгновенно отправляется на ваш e-mail. Стоимость всего 549 рублей на одного человека.</p>
+          
+<div class="from_search">
+    <div class="bg_search"></div>
+        <!-- button search -->
+        <div class="from_search_6"><button onclick="searchFlights()" class="search-button" id="findTicketBtn">Найти</button></div>
+        <div data-svg-wrapper data-size="20" class="search"><svg width="25" height="25" viewBox="0 0 25 25" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M21.875 21.875L17.3438 17.3438M19.7917 11.4583C19.7917 16.0607 16.0607 19.7917 11.4583 19.7917C6.85596 19.7917 3.125 16.0607 3.125 11.4583C3.125 6.85596 6.85596 3.125 11.4583 3.125C16.0607 3.125 19.7917 6.85596 19.7917 11.4583Z" stroke="white" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+
+    <!-- block selection of class and number of passengers -->
+    <div class="block_search_5">
+            <div class="dropdown">
+                <button class="dropdown-toggle" onclick="toggleDropdown()"><span id="summary">1 пассажир<br><small class="sumsm">Эконом</small></span></button>
+                    <div class="dropdown-menu" id="passengerMenu">
+                      <!-- children 12 years and older -->
+                      <div class="section">
+                        <div class="row">
+                          <span class="vz">Взрослые<br><small class="s12">12 лет и старше</small></span>
+                          <div class="counter">
+                            <button onclick="changeCount('adults', -1)">−</button>
+                            <span id="adults">1</span>
+                            <button onclick="changeCount('adults', 1)">+</button>
+                          </div>
+                        </div>
+                        <!-- children from 2 to 11 years old -->
+                        <div class="row">
+                          <span class="chill211">Дети<br><small class="chill">от 2 до 11 лет</small></span>
+                          <div class="counter">
+                            <button onclick="changeCount('children', -1)">−</button>
+                            <span id="children">0</span>
+                            <button onclick="changeCount('children', 1)">+</button>
+                          </div>
+                        </div>
+                        <!-- children under 2 years old -->
+                        <div class="row">
+                          <span class="m2">Младенцы<br><small class="sm2">Младше 2 лет</small></span>
+                          <div class="counter">
+                            <button onclick="changeCount('infants', -1)">−</button>
+                            <span id="infants">0</span>
+                            <button onclick="changeCount('infants', 1)">+</button>
+                          </div>
+                        </div>
+                      </div>
+                      <!-- Service class -->
+                      <div class="section">
+                        <div class="KO">Класс обслуживания</div>
+                        <label class="lb"><input type="radio" name="class" value="Эконом" checked onchange="updateSummary()" id="idrad-1"> Эконом</label><br>
+                        <label class="lb"><input type="radio" name="class" value="Комфорт" onchange="updateSummary()" id="idrad-2"> Комфорт</label><br>
+                        <label class="lb"><input type="radio" name="class" value="Бизнес" onchange="updateSummary()" id="idrad-3"> Бизнес</label><br>
+                        <label class="lb"><input type="radio" name="class" value="Первый класс" onchange="updateSummary()" id="idrad-4"> Первый класс</label>
+                      </div>
+                      <!-- Service class end -->
+                    </div>
+                <div data-svg-wrapper class="people"><svg width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M10.118 12.064C12.411 11.535 14.546 11.071 13.512 9.119C10.366 3.177 12.678 0 16 0C19.388 0 21.644 3.299 18.488 9.119C17.423 11.083 19.637 11.546 21.882 12.064C23.868 12.523 24 13.494 24 15.175C23.9983 15.6311 23.6281 16 23.172 16H9.003C8.45072 16 7.99657 15.5518 8.00044 14.9995C8.01148 13.4258 8.20199 12.5064 10.118 12.064ZM0 15.381C0.00110561 15.7232 0.278814 16 0.621003 16H4.99871C5.55267 16 5.99645 15.545 6.02563 14.9919C6.30215 9.7498 8.998 12.0133 8.998 7.099C8.998 5.09 7.687 4 6 4C3.508 4 1.774 6.383 4.134 10.839C4.909 12.303 3.309 12.651 1.589 13.048C0.099 13.392 0 14.12 0 15.381Z" fill="var(--color-azure-35, #0055B1)"/></svg></div>
+            </div>
+    </div>
+              
+    <!-- block arrival calendar-->
+    <div class="block_search_4"><input type="text" id="returnDate" placeholder="Обратно"></div>
+    <div data-svg-wrapper class="calen_depurate">
+                <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+                <path d="M20 19C20 19.5523 19.5523 20 19 20H17C16.4477 20 16 19.5523 16 19V17C16 16.4477 16.4477 16 17 16H19C19.5523 16 20 16.4477 20 17V19ZM23 2C23.5523 2 24 2.44772 24 3V23C24 23.5523 23.5523 24 23 24H1C0.447716 24 0 23.5523 0 23V3C0 2.44772 0.447715 2 1 2H2C2.55228 2 3 2.44772 3 3C3 4.103 3.897 5 5 5C6.103 5 7 4.103 7 3C7 2.44772 7.44772 2 8 2H16C16.5523 2 17 2.44772 17 3C17 4.103 17.897 5 19 5C20.103 5 21 4.103 21 3C21 2.44772 21.4477 2 22 2H23ZM22 9C22 8.44772 21.5523 8 21 8H3C2.44772 8 2 8.44772 2 9V21C2 21.5523 2.44772 22 3 22H21C21.5523 22 22 21.5523 22 21V9ZM20 1C20 0.448 19.553 0 19 0C18.447 0 18 0.448 18 1V3C18 3.552 18.447 4 19 4C19.553 4 20 3.552 20 3V1ZM6 3C6 3.552 5.553 4 5 4C4.447 4 4 3.552 4 3V1C4 0.448 4.447 0 5 0C5.553 0 6 0.448 6 1V3Z" fill="var(--color-azure-35, #0055B1)"/>
+                </svg>
+    </div>
+
+    <!-- block depurate calendar -->
+    <div class="block_search_3"><input type="text" id="departureDate" placeholder="Когда"></div>
+    <div data-svg-wrapper class="calen_arrival">
+          <svg width="20" height="20" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M20 19C20 19.5523 19.5523 20 19 20H17C16.4477 20 16 19.5523 16 19V17C16 16.4477 16.4477 16 17 16H19C19.5523 16 20 16.4477 20 17V19ZM23 2C23.5523 2 24 2.44772 24 3V23C24 23.5523 23.5523 24 23 24H1C0.447716 24 0 23.5523 0 23V3C0 2.44772 0.447715 2 1 2H2C2.55228 2 3 2.44772 3 3C3 4.103 3.897 5 5 5C6.103 5 7 4.103 7 3C7 2.44772 7.44772 2 8 2H16C16.5523 2 17 2.44772 17 3C17 4.103 17.897 5 19 5C20.103 5 21 4.103 21 3C21 2.44772 21.4477 2 22 2H23ZM22 9C22 8.44772 21.5523 8 21 8H3C2.44772 8 2 8.44772 2 9V21C2 21.5523 2.44772 22 3 22H21C21.5523 22 22 21.5523 22 21V9ZM20 1C20 0.448 19.553 0 19 0C18.447 0 18 0.448 18 1V3C18 3.552 18.447 4 19 4C19.553 4 20 3.552 20 3V1ZM6 3C6 3.552 5.553 4 5 4C4.447 4 4 3.552 4 3V1C4 0.448 4.447 0 5 0C5.553 0 6 0.448 6 1V3Z" fill="var(--color-azure-35, #0055B1)"/>
+          </svg>
+    </div>
+    
+    <!-- block depurate -->
+    <div class="block_search_2"><input type="text" id="toInput" placeholder="Куда"><ul class="suggestions" id="toSuggestions"></ul></div>
+    <div data-svg-wrapper class="depurate">
+          <svg width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M23.8087 14.8094C23.8087 15.3617 23.361 15.8094 22.8087 15.8094H4.80873C4.25645 15.8094 3.80873 15.3617 3.80873 14.8094C3.80873 14.2571 4.25645 13.8094 4.80873 13.8094H22.8087C23.361 13.8094 23.8087 14.2571 23.8087 14.8094ZM0.0129328 1.15854C-0.0941052 0.490608 0.479067 -0.0886718 1.14809 0.0112782L2.04808 0.145728C2.35097 0.190978 2.61644 0.372538 2.76845 0.638408L4.8799 4.33141C5.02338 4.58235 5.26724 4.7587 5.5507 4.81537C7.57728 5.22051 15.9456 6.89249 18.5157 7.39039C21.0527 7.88139 22.2987 9.54239 22.1677 10.2714C22.0137 11.1334 20.4547 12.1494 17.5417 11.6734C15.057 11.2664 7.21485 9.85079 6.83874 9.78289C6.82667 9.78069 6.81831 9.77899 6.80633 9.77639C1.49881 8.60779 0.731647 5.55502 0.682437 5.33227C0.680355 5.32284 0.678963 5.31463 0.677436 5.3051L0.0129328 1.15854ZM10.0177 0.725358C9.87813 0.585838 9.7005 0.490708 9.50703 0.451948L8.33065 0.216268C7.51008 0.0518781 6.86262 0.907988 7.24423 1.65278L8.43986 3.98631C8.57935 4.25857 8.8358 4.452 9.13591 4.51132L11.7266 5.02346C12.6961 5.21511 13.3264 4.03414 12.6276 3.33534L10.0177 0.725358Z" fill="var(--color-azure-35, #0055B1)"/>
+          </svg>
+    </div>
+      
+    <!-- block arrival -->
+    <div class="block_search_1"><input type="text" id="fromInput" placeholder="Откуда"><ul class="suggestions" id="fromSuggestions"></ul></div>
+    <div data-svg-wrapper class="arrival">
+          <svg width="24" height="16" viewBox="0 0 24 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path fill-rule="evenodd" clip-rule="evenodd" d="M19 13.9906C19.5523 13.9906 20 14.4383 20 14.9906C20 15.5429 19.5523 15.9906 19 15.9906H1C0.447715 15.9906 0 15.5429 0 14.9906C0 14.4383 0.447715 13.9906 1 13.9906H19ZM1.1264 8.48594C0.587291 8.04064 0.659896 7.19374 1.26692 6.84674L2.22456 6.29934C2.4844 6.15074 2.79711 6.12644 3.0768 6.23294L6.94603 7.70674C7.23266 7.81594 7.55208 7.78844 7.8151 7.63064C9.6359 6.53834 16.9252 2.16716 19.173 0.841669C21.399 -0.470331 23.441 -0.0113312 23.82 0.625669C24.268 1.37867 23.951 2.99167 21.244 4.71567C19.154 6.04724 12.5011 10.2603 12.0366 10.5544C12.0182 10.5661 12.0008 10.5762 11.9816 10.5866C7.19384 13.1826 4.61789 11.3564 4.45431 11.234C4.44852 11.2296 4.44321 11.2253 4.43763 11.2207L1.1264 8.48594ZM5.94852 0.999729C5.72177 0.963469 5.48945 1.00635 5.29059 1.12116L4.59802 1.52103C3.91043 1.91802 3.93746 2.91945 4.64547 3.27878L8.75946 5.3667C9.066 5.52227 9.43095 5.5095 9.72585 5.33288L12.2832 3.80121C13.0841 3.32153 12.8492 2.10328 11.9273 1.95586L5.94852 0.999729Z" fill="var(--color-azure-35, #0055B1)"/>
+          </svg>
+    </div>
+</div>
+
+          <div class="info">
+            <h3 class="info-head">Как это работает?</h3>
+              <p class="info-text">Вы заполняете форму поиска, указывая пункты отправления и назначения, даты и количество пассажиров. После этого вы получаете маршрутную квитанцию на указанный e-mail.</p>
+              <p class="info-text">Маршрутная квитанция является временным авиабилетом, который позволяет вам пройти контроль на границе. После прохождения границы вы можете использовать его для дальнейших действий.</p>
+          </div>
+    <div id="results" style="margin-top: 20px;"></div>
+  </div>
+</main>
+
+<footer class="footer">
+    <div class="container">
+      <p class="footer-text">© 2025 AirTicket. Все права защищены.</p>
+      <div class="socials">
+        <a href="#" class="social-link">Политика безопасности и возврата</a>
+        <a href="#" class="social-link">Обработка персональных данных</a>
+        <a href="#" class="social-link">Договор оферта</a>
+      </div>
+    </div>
+</footer>
+  <script src="https://cdn.jsdelivr.net/npm/flatpickr"></script>
+  <script src="https://cdn.jsdelivr.net/npm/flatpickr/dist/l10n/ru.js"></script>
+  <script src="js/calendar.js"></script>
+  <script src="js/autocomplete.js"></script>
+  <script src="js/servis_class.js"></script>
+  <script src="js/button_search.js"></script>
+</body>
+</html>
