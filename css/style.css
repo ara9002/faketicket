@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100..900&display=swap');
+/* ОБЩИЕ СТИЛИ */
+body {
+    background: fixed;
+    background-image: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url(/img/background.jpeg);
+    background-size: cover;
+    background-color: #000000d3;
+    font-family: 'Roboto', sans-serif;
+    color: #ffffff;   
+    margin: 0;
+    padding: 0;
+}
+
+.logo{
+    width: 100%;
+}
+
+.log{
+    width: 150px;
+    height: 100%;
+}
+
+a.link {
+    width: 200px;
+    height: auto;
+}
+
+.btn {
+    background-color: #00bbff;
+    padding: 10px 20px;
+    border-radius: 5px;
+    font-size: 16px;
+    font-weight: 500;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition: opacity 0.3s ease;
+}
+
+.btn:hover {
+    opacity: 0.8;
+}
+
+a {
+    color: #ffffff;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    opacity: 0.5;
+    transition: 0.3s;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+header {
+    padding: 20px 0;
+}
+
+.container {
+    max-width: 1280px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+
+header .container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-nav a {
+    opacity: 0.8;
+    font-size: 16px;
+
+}
+
+.header-nav a.active {
+    opacity: 1;
+    font-weight: bold;
+
+}
+
+.nav-list {
+    gap: 30px;
+    display: flex;
+}
+
+/* ---main-- */
+
+.id-main {
+    font-size: 56px;
+    font-weight: 700;
+    margin: 20px 0px;
+    text-align: center;
+}
+
+.head {
+    font-size: 20px;
+    font-weight: 300;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.head-2 {
+    font-size: 16px;
+    font-weight: 200;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+footer .container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+footer .socials {
+    display: flex;
+    gap: 30px;
+}
+
