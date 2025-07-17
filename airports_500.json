@@ -1,0 +1,2437 @@
+[
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Санкт-Петербург",
+    "airport": "Пулково",
+    "iata": "LED"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Сеул",
+    "airport": "Инчхон",
+    "iata": "ICN"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Новосибирск",
+    "airport": "Толмачёво",
+    "iata": "OVB"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Нью-Йорк",
+    "airport": "им. Джона Кеннеди",
+    "iata": "JFK"
+  },
+  {
+    "city": "Пекин",
+    "airport": "Столичный",
+    "iata": "PEK"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Дубай",
+    "airport": "Международный",
+    "iata": "DXB"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  },
+  {
+    "city": "Мадрид",
+    "airport": "Барахас",
+    "iata": "MAD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Домодедово",
+    "iata": "DME"
+  },
+  {
+    "city": "Стамбул",
+    "airport": "Новый",
+    "iata": "IST"
+  },
+  {
+    "city": "Амстердам",
+    "airport": "Схипхол",
+    "iata": "AMS"
+  },
+  {
+    "city": "Берлин",
+    "airport": "Бранденбург",
+    "iata": "BER"
+  },
+  {
+    "city": "Рим",
+    "airport": "Фьюмичино",
+    "iata": "FCO"
+  },
+  {
+    "city": "Чикаго",
+    "airport": "О’Хара",
+    "iata": "ORD"
+  },
+  {
+    "city": "Москва",
+    "airport": "Шереметьево",
+    "iata": "SVO"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Торонто",
+    "airport": "Пирсон",
+    "iata": "YYZ"
+  },
+  {
+    "city": "Париж",
+    "airport": "Шарль-де-Голль",
+    "iata": "CDG"
+  },
+  {
+    "city": "Токио",
+    "airport": "Ханэда",
+    "iata": "HND"
+  },
+  {
+    "city": "Бангкок",
+    "airport": "Суварнабхуми",
+    "iata": "BKK"
+  },
+  {
+    "city": "Лондон",
+    "airport": "Хитроу",
+    "iata": "LHR"
+  },
+  {
+    "city": "Москва",
+    "airport": "Внуково",
+    "iata": "VKO"
+  }
+]
